@@ -1,0 +1,7 @@
+{
+    "compiler": "js:babel-register",
+    "require": ["cypress/support/index.js"],
+    "nonGlobalStepDefinitions": true
+  }
+  
+  
